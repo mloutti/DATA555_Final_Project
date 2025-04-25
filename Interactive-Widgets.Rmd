@@ -73,7 +73,7 @@ htmltools::browsable(
 <p style="font-size: 20px;">The above figure shows the number of fathers that attended each educational session by community. The figure shows that all communities had between 6 and 9 fathers present at the first session and that attendance rates varied greatly as the program continued. The highest session attendance was 10 fathers, while the lowest attendance was 0.</p>
 
 
-Attendancy by Job Type and Interest Level
+Attendance by Job Type and Interest Level
 =====================================  
 Column
 -------------------------------------
@@ -165,4 +165,5 @@ The data presented in this dashboard are confidential, as related publications a
 <p style="font-size: 20px;">Real-World Impact:
 This dashboard will be used to help inform the development of a future parenting program in Mwanza, Tanzania. Additionally, it is helpful in showing that the type of job fathers work and their baseline interest level in the program did not significantly impact their attendance at sessions, guiding future research.</p>
 
-
+<p style="font-size: 20px;">Link to Repository:
+The link to the GitHub Repository associated with this dashboard is: https://github.com/mloutti/DATA555_Final_Project</p>
