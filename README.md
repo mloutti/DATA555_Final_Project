@@ -3,7 +3,7 @@ DATA 555 Final Project
 Megan Louttit
 2025-04-25
 
-# DATA 550=5 Final Project
+# DATA 555 Final Project
 
 ## Project Purpose:
 This project analyzed attendance trends of fathers in a parenting program designed to improve early childhood development outcomes in Mwanza, Tanzania. This project aimed to answer the following questions:
